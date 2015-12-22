@@ -24,3 +24,6 @@ See video below - flies well - currently adding additional sensors for autonomou
 
 ## PICTURES AND VIDEO
 
+[video](https://www.youtube.com/embed/iSKVnFI_7HA) 
+
+![board](http://owenquad.googlecode.com/files/owenquad-intboard-sml.jpg)
